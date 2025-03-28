@@ -21,7 +21,7 @@ export default function HeroSection() {
               </Button>
             </Link>
             <Link href="/about">
-              <Button variant="outline" className="border-white text-white hover:bg-blue-700">
+              <Button variant="outline" className="border-white text-blue-600 hover:text-blue-600 hover:bg-blue-50">
                 Learn More
               </Button>
             </Link>
